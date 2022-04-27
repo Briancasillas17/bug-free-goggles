@@ -6,7 +6,7 @@
 ## Summary
 This is a tutorial for a regular expression that matches valid email addresses
 ### Email RegEx
-`/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/gim`
+`/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
 ## Table of Contents
 
